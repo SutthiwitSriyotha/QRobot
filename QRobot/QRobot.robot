@@ -5,7 +5,7 @@ Library    SeleniumLibrary
 ${URL}             http://automationexercise.com
 ${BROWSER}         Chrome
 ${USERNAME}        sutthiwit
-${EMAIL}           sutthiwit123@gmail.com
+${EMAIL}           sutthiwit154623@gmail.com
 ${PASSWORD}        Test@1234
 ${FIRSTNAME}       Test
 ${LASTNAME}        User
